@@ -1,0 +1,27 @@
+.container, .container-fluid {
+  width: 1200px;
+  margin: 0 auto;
+  font-family: "Righteous";
+}
+p a {
+  color: darkred;
+  list-style: none;
+  font-size: 30px;
+}
+.nav-logo {
+  height: 30px;
+  width: 30px;
+}
+.main-bride {
+  background-image: url(./images/main-bride.jpg);
+  height: 1200px;
+  margin: 0 auto;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.main-greeting{
+  background-color: darkred;
+  height: 400px;
+  width: fit-content;
+}
